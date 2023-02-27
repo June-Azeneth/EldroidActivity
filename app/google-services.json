@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "458186558714",
+    "project_id": "eldroidact",
+    "storage_bucket": "eldroidact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458186558714:android:dd387ce6b3f7931837cd43",
+        "android_client_info": {
+          "package_name": "com.example.eldroidactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458186558714-8cm444cp0p6vuimfqg7ja7t3c6anfhl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7j3E1gXq-zv2lXSeL7H4QeFHKvMfLKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458186558714-8cm444cp0p6vuimfqg7ja7t3c6anfhl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458186558714:android:8d271224428018a637cd43",
+        "android_client_info": {
+          "package_name": "com.example.firebaseact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458186558714-8cm444cp0p6vuimfqg7ja7t3c6anfhl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7j3E1gXq-zv2lXSeL7H4QeFHKvMfLKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458186558714-8cm444cp0p6vuimfqg7ja7t3c6anfhl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
